@@ -2776,7 +2776,7 @@ object{
 	}
 	.header-site.invert .sub-menu,
 	.header-site.invert .sub-menu li a{
-		background: #fff;
+		background: #000;
 		color: #000;
 	}
 	.header-site.invert .sub-menu li a:hover{
