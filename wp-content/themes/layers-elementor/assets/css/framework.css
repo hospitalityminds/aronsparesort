@@ -2777,7 +2777,7 @@ object{
 	.header-site.invert .sub-menu,
 	.header-site.invert .sub-menu li a{
 		background: #000;
-		color: #000;
+		color: #FFF;
 	}
 	.header-site.invert .sub-menu li a:hover{
 		background-color: #323232;
