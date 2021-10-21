@@ -152,7 +152,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-e695bfb
@@ -184,7 +184,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/dining10.jpg");
+  /* background-image: url("../../../../img/dining10.jpg"); */
   background-position: center center;
   background-size: cover;
 }
@@ -215,7 +215,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/conference.jpg");
+  /* background-image: url("../../../../img/conference.jpg"); */
   background-position: center center;
   background-size: cover;
 }
@@ -245,7 +245,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-29a357c0
@@ -292,7 +292,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-63cf3a0a
@@ -324,9 +324,10 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/filmShoot.jpg");
+  /* background-image: url("../../../../img/filmShoot.jpg"); */
   background-position: bottom left;
   background-size: cover;
+  margin-bottom: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-8c9ef37
@@ -355,7 +356,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/picnic1.jpg");
+  /* background-image: url("../../../../img/picnic1.jpg"); */
   background-position: center center;
   background-size: cover;
 }
@@ -385,7 +386,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-d48db48
@@ -432,7 +433,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-0de215b
@@ -542,7 +543,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-b2b8aa7
@@ -589,7 +590,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-ee2db05
@@ -682,7 +683,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-4d303ea
@@ -729,7 +730,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-c737c01
@@ -822,7 +823,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-a919b53
@@ -949,7 +950,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-41fd2e9d
@@ -996,7 +997,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-6d589805
@@ -1089,7 +1090,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-8b0324e
@@ -1136,7 +1137,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-3ec38f69
@@ -1229,7 +1230,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-914f6b6
@@ -1276,7 +1277,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-cad9523
@@ -1386,7 +1387,7 @@
   > .elementor-element-populated {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 0% 0% 0% 0%;
-  padding: 70px 70px 70px 70px;
+  padding: 30px;
 }
 .elementor-480
   .elementor-element.elementor-element-d306b33
@@ -1485,7 +1486,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/playzone.jpg");
+  /* background-image: url("../../../../img/playzone.jpg"); */
   background-position: bottom center;
   background-size: cover;
 }
