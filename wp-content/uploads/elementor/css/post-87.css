@@ -329,7 +329,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/dining4.jpg");
+  background-image: url("../../../../img/qualityFood.jpeg");
   background-position: center center;
   background-size: cover;
 }
@@ -876,7 +876,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../../../../img/waterpark.png");
+  /* background-image: url("../../../../img/waterpark.png"); */
   background-position: bottom center;
   background-size: cover;
 }

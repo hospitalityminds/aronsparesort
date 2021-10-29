@@ -165,6 +165,7 @@
   font-size: 27px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  text-align: center;
 }
 .elementor-16 .elementor-element.elementor-element-a548036 {
   --divider-border-style: solid;
@@ -176,7 +177,7 @@
   .elementor-divider-separator {
   width: 30%;
   margin: 0 auto;
-  margin-left: 0;
+  /* margin-left: 0; */
 }
 .elementor-16 .elementor-element.elementor-element-a548036 .elementor-divider {
   text-align: left;
@@ -216,6 +217,7 @@
   font-size: 27px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  text-align: center;
 }
 .elementor-16 .elementor-element.elementor-element-241b3f2 {
   --divider-border-style: solid;
@@ -227,7 +229,7 @@
   .elementor-divider-separator {
   width: 30%;
   margin: 0 auto;
-  margin-left: 0;
+  /* margin-left: 0; */
 }
 .elementor-16 .elementor-element.elementor-element-241b3f2 .elementor-divider {
   text-align: left;
@@ -267,6 +269,7 @@
   font-size: 27px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  text-align: center;
 }
 .elementor-16 .elementor-element.elementor-element-bc808ad {
   --divider-border-style: solid;
@@ -278,7 +281,7 @@
   .elementor-divider-separator {
   width: 30%;
   margin: 0 auto;
-  margin-left: 0;
+  /* margin-left: 0; */
 }
 .elementor-16 .elementor-element.elementor-element-bc808ad .elementor-divider {
   text-align: left;
